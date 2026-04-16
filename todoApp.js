@@ -1,4 +1,4 @@
-import fs, from 'fs';
+import fs from 'fs';
 // fs is used for file read or write 
 import readline  from 'readline';
 // readline is used for handling input output using terminal (using CLI)
